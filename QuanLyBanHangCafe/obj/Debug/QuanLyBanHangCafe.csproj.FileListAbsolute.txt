@@ -1,0 +1,12 @@
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\bin\Debug\QuanLyBanHangCafe.exe.config
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\bin\Debug\QuanLyBanHangCafe.exe
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\bin\Debug\QuanLyBanHangCafe.pdb
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.FrmSanPham.resources
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.HoaDonChiTiet.resources
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.Properties.Resources.resources
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.ThemMoiHoaDon.resources
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.csproj.GenerateResource.cache
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.csproj.CoreCompileInputs.cache
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.exe
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.pdb
+C:\DemoNhapMonKyThuatPhanMen\QuanLyBanHangCafe\obj\Debug\QuanLyBanHangCafe.csproj.AssemblyReference.cache
